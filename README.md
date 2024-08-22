@@ -39,6 +39,15 @@ not npm start because vite?( idk bro )
 
 if i missed anything , reach out to me at @anirudhk771k@gmail.com
 
+## to check the deployed hash open metamask , u can see ur recent transaction 
+![image](https://github.com/user-attachments/assets/caec02de-4ed5-408a-a3ff-b890803ba7c8)
+
+copy the transaction hash and then search on sepolia etherscan
+Boom heres the proof
+![image](https://github.com/user-attachments/assets/1e300c31-3cab-4616-bbb8-fcf7a841d5ad)
+
+if i left anything confidential here please tell me hehe
+
 
 
 
